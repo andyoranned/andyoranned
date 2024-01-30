@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andyoranned
-- 👀 I’m interested in ... app development!
-- 🌱 I’m currently learning ... JAVA, C#, Android and Thai(ภาษาไทย).
-- 💞️ I’m looking to collaborate on ... beginner friendly projects or something a little bit outside my comfort zone.  
+- 👀 I’m interested in ... app development, machine learning, and ภาษาไทย!
+- 💞️ I’m looking to collaborate on ... Java or C# applications, or machine learning.
 - 📫 How to reach me ... Line @ gluay_gluay_
 
 <!---
