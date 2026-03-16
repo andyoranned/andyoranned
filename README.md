@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andyoranned
 - 👀 I’m interested in ... a little bit of everything: Android app development, machine learning, research and ภาษาไทย!
 - 💞️ I’m looking to collaborate on ... data, computer vision, machine learning(object detection/recognition) especially for edge applications.
-- 📫 How to reach me ... 
+- 📫 How to reach me ... pull request. 
 
 <!---
 andyoranned/andyoranned is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
